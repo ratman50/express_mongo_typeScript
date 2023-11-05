@@ -11,6 +11,9 @@ Ce projet est une exercice pour me permettre de revoir les concepts MVC avec nod
 - CRUD SUR LES BOOKS
 
 ## INSTALLATION
-1. CLonez le dépôt avec la commande:
+1. CLonez le dépôt avec la commande 
    git clone https://github.com/ratman50/express_mongo_typeScript
 ## CONFIGURATION
+
+
+##UTILISATION
