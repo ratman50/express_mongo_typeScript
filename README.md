@@ -18,4 +18,4 @@ Ce projet est une exercice pour me permettre de revoir les concepts MVC avec nod
 
 ## UTILISATION
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic-00.iconduck.com%2Fassets.00%2Fflag-senegal-emoji-2048x1279-qzr27rxb.png&tbnid=K9d5gYyaFAPLzM&vet=12ahUKEwi15pWgkK2CAxUVQaQEHTeiBJkQMygCegQIARBK..i&imgrefurl=https%3A%2F%2Ficonduck.com%2Femojis%2F44257%2Fflag-senegal&docid=vLuaqvUKWtGIyM&w=2048&h=1279&q=emoji%20senegal&ved=2ahUKEwi15pWgkK2CAxUVQaQEHTeiBJkQMygCegQIARBK" width="300">
+![Texte alternatif](https://static-00.iconduck.com/assets.00/flag-senegal-emoji-2048x1279-qzr27rxb.png)
