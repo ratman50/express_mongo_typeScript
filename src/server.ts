@@ -4,6 +4,8 @@ import http from 'http';
 import Logging from './library/Loggin';
 import mongoose from 'mongoose';
 import authorRoute from "./routes/AuthorRouter";
+import BookRoute from './routes/BookRouter';
+
 const router = express();
 
 // connect to Mongo
@@ -48,6 +50,8 @@ const StartServer=
     });
     /**Routes */
     router.use("/authors",authorRoute);
+    router.use('/books', BookRoute);
+
     /**healthCheck    */
     router.get('/ping', (req, res, next) => res.status(200).json({ message: 'pong' }));
     
